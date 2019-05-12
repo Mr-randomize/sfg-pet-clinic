@@ -1,6 +1,6 @@
 package com.iviberberi.sfgpetclinic.model;
 
-public class PetType {
+public class PetType extends BaseEntity {
 
     private String name;
 
